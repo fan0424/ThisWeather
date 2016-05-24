@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">查天气</string>
+    <string name="et_cityname">请输入要查询的城市名字</string>
+    <string name="tv_search">搜索</string>
+</resources>
